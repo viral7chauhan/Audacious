@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">Audacious.Droid</string>
+	<string name="StartRecording">Start!</string>
+	<string name="StopRecording">Stop</string>
+</resources>
